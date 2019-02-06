@@ -14,7 +14,7 @@
 
 ### App Walkthough GIF
 
-<img src="flicksters walkthrough.gif" width=250><br>
+<img src="flickster walkthrough.gif" width=250><br>
 
 ### Notes
 No challenges were occurred. 
